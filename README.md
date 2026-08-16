@@ -1,5 +1,7 @@
 # Luni  — Online store of gaming peripherals
 
+**Live demo: https://luni-shop.vercel.app/**
+
 ## Technologies
 - React
 - TypeScript
