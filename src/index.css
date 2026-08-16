@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #08080b;
+  --color-surface: #101016;
+  --color-surface-2: #16161e;
+  --color-line: rgba(255, 255, 255, 0.08);
+  --color-line-strong: rgba(255, 255, 255, 0.16);
+  --color-text: #ededf2;
+  --color-muted: #83839a;
+  --color-violet: #7c5cff;
+  --color-live: #3ddc97;
+
+  --font-display: "Unbounded", system-ui, sans-serif;
+  --font-body: "Manrope", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --radius-card: 16px;
+  --radius-chip: 999px;
+}
+
+@layer base {
+  body {
+    @apply bg-bg text-text font-body antialiased;
+  }
+
+  :focus-visible {
+    @apply outline-2 outline-offset-[3px] outline-violet rounded-md;
+  }
+}

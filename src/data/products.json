@@ -1,0 +1,108 @@
+[
+  {
+    "id": "lamzu-atlantis-mini-pro",
+    "name": "Lamzu Atlantis Mini Pro",
+    "category": "mice",
+    "price": 11900,
+    "image": "https://lamzu.com/cdn/shop/files/productColor_mini_white.png?v=1714121473&width=800",
+    "tags": ["PAW3395", "4K", "беспроводная"],
+    "badge": "46 г",
+    "inStock": true,
+    "description": "Самая лёгкая мышь в каталоге. Симметричный корпус под пальцевый хват, магнитная зарядная база в комплекте.",
+    "specs": [
+      { "label": "Вес", "value": "46 г" },
+      { "label": "Сенсор", "value": "PixArt PAW3395" },
+      { "label": "Опрос", "value": "4000 Гц" },
+      { "label": "Подключение", "value": "2.4 ГГц, USB-C" },
+      { "label": "Автономность", "value": "70 часов" }
+    ]
+  },
+  {
+    "id": "razer-viper-v3-pro",
+    "name": "Razer Viper V3 Pro",
+    "category": "mice",
+    "price": 15400,
+    "image": "https://m.media-amazon.com/images/I/61BJ2MpgTTL._AC_SL1500_.jpg",
+    "tags": ["Focus Pro", "8K", "оптический клик"],
+    "badge": "54 г",
+    "inStock": true,
+    "description": "Турнирный стандарт. Оптические свитчи без дребезга, донгл с опросом 8000 Гц в комплекте.",
+    "specs": [
+      { "label": "Вес", "value": "54 г" },
+      { "label": "Сенсор", "value": "Focus Pro 35K" },
+      { "label": "Опрос", "value": "8000 Гц" },
+      { "label": "Свитчи", "value": "Оптические Gen-3" },
+      { "label": "Автономность", "value": "95 часов" }
+    ]
+  },
+  {
+    "id": "logitech-gpx-superlight-2",
+    "name": "Logitech G Pro X Superlight 2",
+    "category": "mice",
+    "price": 17200,
+    "image": "https://resource.logitechg.com/w_2443,h_1374,ar_16:9,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/pro-x-superlight-2-se-pdp/gallery/pro-x-superlight-2-se-white-top-angle-gallery-1.png",
+    "tags": ["HERO 2", "2K", "гибридные свитчи"],
+    "badge": "60 г",
+    "inStock": true,
+    "description": "Форма, к которой привыкли все. Гибридные свитчи LIGHTFORCE и рекордная автономность.",
+    "specs": [
+      { "label": "Вес", "value": "60 г" },
+      { "label": "Сенсор", "value": "HERO 2" },
+      { "label": "Опрос", "value": "2000 Гц" },
+      { "label": "Подключение", "value": "LIGHTSPEED" },
+      { "label": "Автономность", "value": "95 часов" }
+    ]
+  },
+  {
+    "id": "pulsar-x2v2-mini",
+    "name": "Pulsar X2V2 Mini",
+    "category": "mice",
+    "price": 9800,
+    "image": "https://m.media-amazon.com/images/I/51l91SLLXgL._AC_SL1500_.jpg",
+    "tags": ["XS-1", "1K", "симметрия"],
+    "badge": "52 г",
+    "inStock": true,
+    "description": "Лучшее соотношение цены и веса. Компактный симметричный корпус для небольшой ладони.",
+    "specs": [
+      { "label": "Вес", "value": "52 г" },
+      { "label": "Сенсор", "value": "XS-1 (PAW3395)" },
+      { "label": "Опрос", "value": "1000 Гц" },
+      { "label": "Подключение", "value": "2.4 ГГц" },
+      { "label": "Автономность", "value": "70 часов" }
+    ]
+  },
+  {
+    "id": "artisan-zero-xsoft",
+    "name": "Artisan Zero XSoft",
+    "category": "pads",
+    "price": 7300,
+    "image": "https://m.media-amazon.com/images/I/61Eqsyg7QpL._AC_SL1500_.jpg",
+    "tags": ["XL", "контроль", "тканевый"],
+    "badge": "3 мм",
+    "inStock": true,
+    "description": "Японский коврик с мягкой основой. Максимальный контроль на остановке, стабильный отклик при любой влажности.",
+    "specs": [
+      { "label": "Размер", "value": "490 × 420 мм" },
+      { "label": "Толщина", "value": "3 мм" },
+      { "label": "Поверхность", "value": "Ткань, контроль" },
+      { "label": "Основа", "value": "XSoft" }
+    ]
+  },
+  {
+    "id": "corepad-ptfe-viper",
+    "name": "Глайды Corepad PTFE",
+    "category": "parts",
+    "price": 1400,
+    "image": "https://corepad.com/wp-content/uploads/2024/01/corepad_skatez_detail.png",
+    "tags": ["0.8 мм", "скруглённые", "под Viper"],
+    "badge": "4 шт",
+    "inStock": false,
+    "description": "Чистый PTFE со скруглёнными краями. Скользят мягче стоковых и не царапают тканевые коврики.",
+    "specs": [
+      { "label": "Материал", "value": "PTFE 100%" },
+      { "label": "Толщина", "value": "0.8 мм" },
+      { "label": "В наборе", "value": "4 элемента" },
+      { "label": "Совместимость", "value": "Razer Viper V3" }
+    ]
+  }
+]
