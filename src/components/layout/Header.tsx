@@ -2,13 +2,7 @@ import { useState } from "react";
 import { Link, useLocation, useSearchParams } from "react-router-dom";
 import { ShoppingCart, Menu, X } from "lucide-react";
 import { useCart } from "../../context/CardContext";
-
-const NAV_LINKS = [
-  { to: "/catalog", cat: null, label: "Каталог" },
-  { to: "/catalog?cat=mice", cat: "mice", label: "Мыши" },
-  { to: "/catalog?cat=pads", cat: "pads", label: "Коврики" },
-  { to: "/catalog?cat=parts", cat: "parts", label: "Глайды" },
-];
+import { NAV_LINKS } from "../../constants/nav";
 
 export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
